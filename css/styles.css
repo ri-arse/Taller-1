@@ -1,0 +1,35 @@
+
+body{
+    background-color: #a5a5a5;
+}
+h1{
+    color:indigo;
+    text-align: center;
+    font-family: Tahoma, Verdana, sans-serif;
+}
+h3{
+    font-weight:bold;
+    font-family: Tahoma, Verdana, sans-serif;
+    color:rgb(112, 35, 184);
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.parrafo{
+    font-family: Tahoma, Verdana, sans-serif;
+    text-align: justify;
+    color:rgb(112, 35, 184);
+    margin-left: 1%;
+    margin-right: 1%;
+}
+img {
+    width: 600px;
+    height: 300px;
+    display:block;
+    margin:auto;
+    border-radius: 8px;
+}
+div {
+    border: indigo 1px solid;
+    margin-left: 2%;
+    margin-right: 2%;
+}
